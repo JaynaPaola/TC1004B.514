@@ -1,5 +1,5 @@
-#include <unistd>
-#include <ctype>
+#include <unistd.h>
+#include <ctype.h>
 
 int main(){
     char c;
